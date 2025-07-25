@@ -69,4 +69,3 @@ This project was completed for DATANVI - Data Visualization at De La Salle Unive
 
 ---
 
-*Lance Tulagan - DLSU Data Visualization Project*
